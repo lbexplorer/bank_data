@@ -1,0 +1,6 @@
+Andrew,wiles,68,203000
+Norm,Macdonald,61,459000
+Samuel,Hui,73,538000
+Andrea,Pirlo,42,8700000Macdonald,Norm,459000,61
+McCartney,Paul,2789000,79
+Hui,Samuel,538000,73
